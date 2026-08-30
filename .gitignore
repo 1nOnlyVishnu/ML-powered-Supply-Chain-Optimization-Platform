@@ -1,0 +1,11 @@
+# Files I don't want in Git
+CHANGES_SUMMARY.txt
+INTERVIEW_PREPARATION_REPORT.md
+PROJECT_INTERVIEW_GUIDE.md
+
+# Python generated files
+__pycache__/
+*.pyc
+
+# Frontend dependencies
+frontend/node_modules/

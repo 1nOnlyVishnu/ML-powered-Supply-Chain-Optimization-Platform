@@ -273,15 +273,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **React Team** for React framework
 - **FastAPI Team** for FastAPI framework
 
-## 📞 Support
-
-For support and questions:
-- 📧 Email: support@supplychainmgmt.com
-- 📖 Documentation: [docs.supplychainmgmt.com](https://docs.supplychainmgmt.com)
-- 🐛 Bug Reports: [GitHub Issues](https://github.com/your-org/supply-chain-management/issues)
-
----
-
 **Built with ❤️ for optimizing global supply chains**
 
 [![GitHub stars](https://img.shields.io/github/stars/your-org/supply-chain-management?style=social)](https://github.com/your-org/supply-chain-management)
